@@ -1,0 +1,27 @@
+{
+    "name": "tyz/debug",
+    "description": "调试助手",
+    "license": "MIT",
+    "authors": [
+    {
+        "name": "tianyunchong",
+        "email": "854024109@qq.com"
+    }],
+    "minimum-stability": "dev",
+    "require":
+    {},
+    "autoload":
+    {
+        "psr-4":
+        {
+            "Tyz\\Debug\\": "src/"
+        }
+    },
+    "extra":
+    {
+        "branch-alias":
+        {
+            "dev-master": "1.0.1-dev"
+        }
+    }
+}
