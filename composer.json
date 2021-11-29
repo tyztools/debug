@@ -9,8 +9,6 @@
         "email": "854024109@qq.com"
     }],
     "minimum-stability": "dev",
-    "require":
-    {},
     "autoload":
     {
         "psr-4":
