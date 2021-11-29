@@ -2,6 +2,7 @@
     "name": "tyz/debug",
     "description": "调试助手",
     "license": "MIT",
+    "type":"library",
     "authors": [
     {
         "name": "tianyunchong",
@@ -15,13 +16,6 @@
         "psr-4":
         {
             "Tyz\\Debug\\": "src/"
-        }
-    },
-    "extra":
-    {
-        "branch-alias":
-        {
-            "dev-master": "1.3-dev"
         }
     }
 }
